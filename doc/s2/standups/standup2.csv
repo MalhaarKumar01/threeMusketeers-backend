@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+December 3rd,2,2,Jovana Spasojevic,Improved my code based on the reviews that I got from my teamates,Complete the code reviews,Saturday evening,No blockers
+December 3rd,2,2,Dhir Shukla,Finished merging code and provided some code review for the group,I will work on the presentation,Saturday evening,No blockers
+December 3rd,2,2,Aleksandra Kalas, Completed code reviews for all the updated code and the code from the previous sprint,Add information to my slides for the presentation,Saturday evening,No blockers
+December 3rd,2,2,Malhaar Kumar,Did code reviews and updated UML diagrams for Learner's mode implementation,Complete UMLs and code Undo X Moves with proper implementation,Saturday,Trouble finding design patterns that fit the undoing of multiple moves

@@ -1,0 +1,7 @@
+Story Number, Name, Owner, Priority, Estimate, As a, I want, So that, IMPL Details
+User Story 0.1,Switch Sides,Dhir,3,1,User,"To be able to switch sides during game play, either switching from 'Human vs Human' to 'Human vs Computer' etc.","I can change my mind about which game state I want to be in, if we undo moves it goes back to the original game state.",Switch currentAgent to Human/Random/greedy
+User Story 0.2,Learner's Mode,Malhaar,1,3,User,To implement a user-friendly easy game for learners,Learning the game is easier when all the possible moves are visible.,New mode using Proxy boards to show all moves possible to make visualisation easier
+User Story 0.3,Multiple Rounds,Aleksandra,5,3,User,To have multiple rounds in a game,"To keep track of how many times each player won, and to go back to previous rounds.",Keep track of the board state in a queue at the end of each round
+User Story 0.4,Go back i moves,Malhaar,4,2,User,To be able to go back to specific moves that have been played.,"You can play the game from your desired move, and change the moves you want to do that game.",Undos (moves.size() - i) number of moves.
+User Story 0.5,Restart Game,Dhir,2,2,User,To be able to restart the game and start from the beginning.,You can replay your moves again.,Implementing a restart function that resets the game.
+User Story 0.6,Probability of winning,Jovana,6,3,User,To be able to see who is performing better.,I can see who is winning / losing.,Using number of guards remaining and the number

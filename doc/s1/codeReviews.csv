@@ -1,0 +1,7 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV-11,Switch Sides Feature,Aleksandra Kalas,https://github.com/UTMCSC207/assignment3-luckycharms_/pull/3,Overall code works and is a good setup for the pattern need to check over after merging is done to make sure that the strings have merged properly.
+DEV-15,Restart,Jovana Spasojevic,https://github.com/UTMCSC207/assignment3-luckycharms_/pull/7,The code looks good. We will have to change the cases in runGame to add my case P probability fo winning.
+DEV-14,Undo X Moves,Aleksandra Kalas,https://github.com/UTMCSC207/assignment3-luckycharms_/pull/9,Overall code looks good. Might need to add an additional break statement. Remove some whitespace and commented out code.
+DEV-13,Multiple Rounds,Jovana Spasojevic,https://github.com/UTMCSC207/assignment3-luckycharms_/pull/10,The code looks great and performs all the required features. The pattern is correctly implemented. Might want to add this before using an attribute.
+DEV-16,Probability of Winning,Malhaar Kumar,https://github.com/UTMCSC207/assignment3-luckycharms_/pull/11,Made some suggestions to review code such as making certain lines shorter and more efficient. Along with this some small suggestions for notations or white space that needs to be added. 
+DEV-13,Multiple Rounds,Dhir Shukla,https://github.com/UTMCSC207/assignment3-luckycharms_/pull/10,White space removal. Clean up the code with some variables 
